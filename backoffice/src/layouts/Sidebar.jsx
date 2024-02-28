@@ -1,6 +1,8 @@
-import React from 'react'
+import React, { useContext } from 'react'
 import { IoMdClose } from "react-icons/io";
+
 export default function Sidebar({setIsOpen}) {
+  
   return (
     <div className=' text-white bg-teal' style={{zIndex:5,position:'fixed',height:'100%', width:300}}>
     

@@ -1,9 +1,9 @@
 import React from 'react'
 
-export default function Auth() {
+export default function ProductDetails() {
   return (
     <div>
-      auth
+      
     </div>
   )
 }
